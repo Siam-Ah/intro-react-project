@@ -1,5 +1,6 @@
 import React from "react"
 
+// Component that displays the main content of the page with fun facts about React
 export default function Main() {
     return (
         <main>

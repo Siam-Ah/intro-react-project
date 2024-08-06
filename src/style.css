@@ -1,3 +1,4 @@
+/* Global Styles */
 * {
     box-sizing: border-box;
 }
@@ -9,6 +10,7 @@ body {
     background-color: #282D35;
 }
 
+/* Navbar Styles */
 .navbar {
     display: flex;
     align-items: center;
@@ -38,6 +40,7 @@ body {
     margin-right: 7px;
 }
 
+/* Main Section Styles */
 main {
     padding: 57px 27px;
     color: white;
